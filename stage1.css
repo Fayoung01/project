@@ -1,0 +1,47 @@
+body{
+	background-image: url("bimage.jpg");
+	background-repeat: no-repeat;
+	position: cover;
+}
+nav{
+	font-family: Rockwell;
+	line-height: normal;
+	font-size: 25px;
+	
+	color: #FFFFFF;
+}
+div.name{
+	font-family: Arial;
+	line-height: normal;
+	font-size: 60px;
+
+	color: #FF7800;
+	padding-left:5px;
+}	
+
+div.enter{
+	font-family: Arial;
+	line-height: normal;
+	font-size: 60px;
+	text-align: center;
+
+	color: #FF7800;
+	padding-left: 5px;
+
+	border: 8px solid #F2F2F2;
+	border-radius: 50px;
+	width: 337px;
+	margin:auto;
+}
+.date{
+	position: absolute;
+	width: 736px;
+	height: 59px;
+
+	font-family: Arial;
+	line-height: normal;
+	font-size: 45px;
+	text-align: left;
+
+	color: #FFFFFF;
+}
